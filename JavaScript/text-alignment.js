@@ -9,7 +9,7 @@ alignLeft.addEventListener('click', ()=>{
 
   alignCenter.classList.remove('bg-blue-500');
   alignCenter.classList.remove('text-white');
-  textarea.classList.remove('text-center')
+  textarea.classList.remove('text-center');
 
   alignRight.classList.remove('bg-blue-500');
   alignRight.classList.remove('text-white');
